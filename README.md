@@ -17,39 +17,39 @@ To empower Microsoft's new movie studio by conducting an in-depth exploration of
 
 ## Specific Objectives
 
-*Explore Genre Dynamics:
+* Explore Genre Dynamics:
 
 Conduct a detailed analysis of the performance of different movie genres at the box office.
 Identify genres that consistently resonate with audiences and exhibit strong box office performance.
 
-*Analyze Runtime Preferences:
+* Analyze Runtime Preferences:
 
 Investigate the relationship between movie runtime and audience reception.
 Determine optimal runtime ranges that correlate with favorable box office outcomes.
 
-*Evaluate Studio Partnerships:
+* Evaluate Studio Partnerships:
 
 Examine the influence of studio partnerships on the success of movies.
 Identify studios with a track record of producing successful films and potential partnerships for Microsoft.
 
-*Assess Production Budget Impact:
+* Assess Production Budget Impact:
 
 Analyze the impact of production budgets on the box office success of movies.
 Define a range of production budgets associated with successful films.
 
-*Generate Actionable Recommendations:
+* Generate Actionable Recommendations:
 
 Synthesize the findings from the exploratory data analysis into actionable insights.
 Provide specific and strategic recommendations for Microsoft's new movie studio based on the identified trends and patterns.
 
 ## Notebook Structure
 
-*Reading the data
-*Data Preparation and Cleaning
-*EDA, Data Analysis and Visualizations
-*Furure Improvements
-*Conclusions
-*Recommendations
+* Reading the data
+* Data Preparation and Cleaning
+* EDA, Data Analysis and Visualizations
+* Future Improvements
+* Conclusions
+* Recommendations
 
 ## Data Understanding
 
@@ -63,23 +63,23 @@ The initial dataset, sourced from diverse movie industry repositories, presented
 The cleaned dataset then underwent exploratory data analysis (EDA), leveraging statistical and visualization techniques to discern underlying trends and patterns. This iterative process of data wrangling and cleaning laid the foundation for actionable insights, empowering Microsoft's new movie studio head with a robust and reliable dataset. The culmination of this effort is a meticulously curated dataset, primed for informing strategic decisions in creating original video content that aligns with market demands, captivates audiences, and elevates Microsoft's prominence in the entertainment industry.
 
 ## Future Improvements
-*Further investigate periods of high ROI to identify factors contributing to success.
-*Analyze fluctuations in worldwide gross to understand the impact of external factors such as market trends or economic conditions.
-*Consider exploring the relationship between production budget and ROI to optimize budget allocation.
+* Further investigate periods of high ROI to identify factors contributing to success.
+* Analyze fluctuations in worldwide gross to understand the impact of external factors such as market trends or economic conditions.
+* Consider exploring the relationship between production budget and ROI to optimize budget allocation.
 
 ## Conclusions
 
--The Action, Adventure, Sci-Fi genre is the most popular and highly appeals to the audience.
--Short movie runtimes ranging between 90 to 110 minutes are most preffered by audience.
--There are specific studios recording great performance at the box office, leading to high earnings.
--There is a strong positive correlation between production budget and ROI. Movies with high production budgets register high overall ROI.
+* The Action, Adventure, Sci-Fi genre is the most popular and highly appeals to the audience.
+* Short movie runtimes ranging between 90 to 110 minutes are most preffered by audience.
+*There are specific studios recording great performance at the box office, leading to high earnings.
+* There is a strong positive correlation between production budget and ROI. Movies with high production budgets register high overall ROI.
 
 ## Recommendations
 
--Venture into the Action, Adventure, Sci-Fi genre as it exhibits notable success at the box office.
--Keep the movie runtime ralatively short i.e between 90 to 110 minutes, a duration associated with favorable audience reception.
--Sign/ Partner with BV Studios since it registers the best performance at box office and generates the highest total gross earnings in the industry.
--Invest between 200 to 400 million as this is the optimal budget range in order to maximize ROI.  
+* Venture into the Action, Adventure, Sci-Fi genre as it exhibits notable success at the box office.
+* Keep the movie runtime ralatively short i.e between 90 to 110 minutes, a duration associated with favorable audience reception.
+* Sign/ Partner with BV Studios since it registers the best performance at box office and generates the highest total gross earnings in the industry.
+* Invest between 200 to 400 million as this is the optimal budget range in order to maximize ROI.  
 
 
 
