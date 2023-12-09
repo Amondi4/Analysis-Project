@@ -17,27 +17,27 @@ To empower Microsoft's new movie studio by conducting an in-depth exploration of
 
 ## Specific Objectives
 
-* Explore Genre Dynamics:
+**Explore Genre Dynamics:**
 
 Conduct a detailed analysis of the performance of different movie genres at the box office.
 Identify genres that consistently resonate with audiences and exhibit strong box office performance.
 
-* Analyze Runtime Preferences:
+**Analyze Runtime Preferences:**
 
 Investigate the relationship between movie runtime and audience reception.
 Determine optimal runtime ranges that correlate with favorable box office outcomes.
 
-* Evaluate Studio Partnerships:
+**Evaluate Studio Partnerships:**
 
 Examine the influence of studio partnerships on the success of movies.
 Identify studios with a track record of producing successful films and potential partnerships for Microsoft.
 
-* Assess Production Budget Impact:
+**Assess Production Budget Impact:**
 
 Analyze the impact of production budgets on the box office success of movies.
 Define a range of production budgets associated with successful films.
 
-* Generate Actionable Recommendations:
+**Generate Actionable Recommendations:**
 
 Synthesize the findings from the exploratory data analysis into actionable insights.
 Provide specific and strategic recommendations for Microsoft's new movie studio based on the identified trends and patterns.
