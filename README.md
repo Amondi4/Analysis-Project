@@ -1,4 +1,4 @@
-# Microsoft Movies
+# Microsoft Movie Studio
 
 **Author:** Cynthia Amondi
 ***
