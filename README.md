@@ -6,16 +6,16 @@
 
 This repo aids in the pursuit of establishing a foothold in the competitive landscape of original video content creation. Exploratory Data Analysis has been employed to discern the prevailing trends and successful attributes in the contemporary film industry. The method employed involved scrutinizing extensive datasets related to box office performance, encompassing variables such as genre, runtime, studio affiliations, and production budgets. The insightful findings derived include venturing into the Action, Adventure, Sci-Fi genre, as this genre exhibits notable success at the box office. Secondly, maintaining the movie runtime within the range of 90 to 110 minutes, a duration associated with favorable audience reception. Fostering collaboration with BV Studios, a studio entity evidently linked to prosperous box office outcomes, is highly recommended. Additionally, it is advocated to contemplate a judicious production budget falling in the range of 200 million to 400 million, reflecting a prudent investment strategy aligned with prevalent industry practices. 
 
-##Introduction
+## Introduction
 In the ever-evolving landscape of entertainment, Microsoft, a global technology giant renowned for its innovation in software, hardware, and cloud services, has set its sights on venturing into the realm of original video content creation. As an industry leader with a vast portfolio spanning personal computing, gaming, and enterprise solutions, Microsoft is poised to leverage its expertise and resources to join the ranks of major players shaping the future of the film industry. The decision to establish a new movie studio marks a strategic foray into a creative domain where Microsoft seeks to contribute its unique perspective and technological prowess. This ambitious initiative, however, brings forth a challenge – the unfamiliarity with the intricacies of movie production. To address this, Microsoft is engaging in a comprehensive exploration of current trends and successful attributes in the cinematic landscape. The goal is to transform these findings into actionable insights, enabling the head of Microsoft's new movie studio to make informed decisions about the types of films to create, ensuring a successful and impactful entry into the competitive world of original video content.
 
-##Problem Statement
+## Problem Statement
 As Microsoft embarks on the creation of its new movie studio, the company faces the formidable task of navigating the intricacies of the film industry, an arena vastly different from its core competencies in technology. The challenge lies in deciphering the dynamics of a successful movie in terms of genre, runtime, studio partnerships, and production budgets. Microsoft lacks the inherent knowledge of what types of films currently resonate with audiences and perform exceptionally well at the box office. Therefore, the problem at hand is to conduct an in-depth exploration of the contemporary cinematic landscape, leveraging exploratory data analysis, to identify key trends and patterns. The ultimate aim is to distill these insights into actionable recommendations that will guide Microsoft's strategic decisions in creating original video content.
 
-##Main Objective
+## Main Objective
 To empower Microsoft's new movie studio by conducting an in-depth exploration of the contemporary cinematic landscape through exploratory data analysis. The overarching goal is to identify key trends and patterns in successful movies, with a focus on genre, runtime, studio partnerships, and production budgets. The ultimate aim is to distill these insights into actionable recommendations that will guide Microsoft's strategic decisions in creating original video content.
 
-##Specific Objectives
+## Specific Objectives
 
 *Explore Genre Dynamics:
 
@@ -42,35 +42,39 @@ Define a range of production budgets associated with successful films.
 Synthesize the findings from the exploratory data analysis into actionable insights.
 Provide specific and strategic recommendations for Microsoft's new movie studio based on the identified trends and patterns.
 
-#Notebook Structure
+## Notebook Structure
 
 *Reading the data
-*Data Cleaning
-*Exploratory Data Analysis
-*Data Preprocessing
-*Data Analysis and Visualizations
+*Data Preparation and Cleaning
+*EDA, Data Analysis and Visualizations
+*Furure Improvements
 *Conclusions
 *Recommendations
 
-#Data Understanding
+## Data Understanding
 
 The data used in this project was from: learn-co-curriculum dsc-phase-1-project-v2-4 master zippedData
 The im.db dataset is a SQlite Database with eight tables. The bom.movie_gross and tn.movie_budgets are both CSV files and were used in this analysis.
 
-#Methodology
+## Methodology
 
 The initial dataset, sourced from diverse movie industry repositories, presented inherent inconsistencies, missing values, and diverse formats. The first step involved meticulous cleaning to rectify discrepancies and ensure data uniformity. Genre categories were standardized, and erroneous entries were rectified to establish a consistent classification system. Additionally, runtime data underwent normalization to address variations in units and formats. Addressing missing values in studio partnerships and production budgets required careful imputation based on industry norms and averages. Outliers, indicative of potential data anomalies, were scrutinized and flagged for further investigation. 
 
 The cleaned dataset then underwent exploratory data analysis (EDA), leveraging statistical and visualization techniques to discern underlying trends and patterns. This iterative process of data wrangling and cleaning laid the foundation for actionable insights, empowering Microsoft's new movie studio head with a robust and reliable dataset. The culmination of this effort is a meticulously curated dataset, primed for informing strategic decisions in creating original video content that aligns with market demands, captivates audiences, and elevates Microsoft's prominence in the entertainment industry.
 
-#Conclusions
+## Future Improvements
+*Further investigate periods of high ROI to identify factors contributing to success.
+*Analyze fluctuations in worldwide gross to understand the impact of external factors such as market trends or economic conditions.
+*Consider exploring the relationship between production budget and ROI to optimize budget allocation.
+
+## Conclusions
 
 -The Action, Adventure, Sci-Fi genre is the most popular and highly appeals to the audience.
 -Short movie runtimes ranging between 90 to 110 minutes are most preffered by audience.
 -There are specific studios recording great performance at the box office, leading to high earnings.
 -There is a strong positive correlation between production budget and ROI. Movies with high production budgets register high overall ROI.
 
-#Recommendations
+## Recommendations
 
 -Venture into the Action, Adventure, Sci-Fi genre as it exhibits notable success at the box office.
 -Keep the movie runtime ralatively short i.e between 90 to 110 minutes, a duration associated with favorable audience reception.
