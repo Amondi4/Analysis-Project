@@ -1,6 +1,6 @@
 # Microsoft Movie Studio
 
-**Author:** Cynthia Amondi
+**Author:** Cynthia Amondi 
 ***
 ## Overview
 
