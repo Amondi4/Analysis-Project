@@ -63,24 +63,25 @@ The im.db dataset is a SQlite Database with eight tables. The bom.movie_gross an
 The cleaned dataset then underwent exploratory data analysis (EDA), leveraging statistical and visualization techniques to discern underlying trends and patterns. This iterative process of data wrangling and cleaning laid the foundation for actionable insights, empowering Microsoft's new movie studio head with a robust and reliable dataset. The culmination of this effort is a meticulously curated dataset, primed for informing strategic decisions in creating original video content that aligns with market demands, captivates audiences, and elevates Microsoft's prominence in the entertainment industry.</div>
 
 ## Future Improvements
+<div style="text-align: justify">
 * Further investigate periods of high ROI to identify factors contributing to success.
 * Analyze fluctuations in worldwide gross to understand the impact of external factors such as market trends or economic conditions.
 * Consider exploring the relationship between production budget and ROI to optimize budget allocation.
-
+</div>
 ## Conclusions
-
+<div style="text-align: justify">
 * The Action, Adventure, Sci-Fi genre is the most popular and highly appeals to the audience.
 * Short movie runtimes ranging between 90 to 110 minutes are most preffered by audience.
 *There are specific studios recording great performance at the box office, leading to high earnings.
 * There is a strong positive correlation between production budget and ROI. Movies with high production budgets register high overall ROI.
-
+</div>
 ## Recommendations
-
+<div style="text-align: justify">
 * Venture into the Action, Adventure, Sci-Fi genre as it exhibits notable success at the box office.
 * Keep the movie runtime ralatively short i.e between 90 to 110 minutes, a duration associated with favorable audience reception.
 * Sign/ Partner with BV Studios since it registers the best performance at box office and generates the highest total gross earnings in the industry.
 * Invest between 200 to 400 million as this is the optimal budget range in order to maximize ROI.  
-
+</div>
 
 
 
