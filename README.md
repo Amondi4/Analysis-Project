@@ -53,8 +53,12 @@
 
 ## Data Understanding
 
- The data used in this project was from: learn-co-curriculum dsc-phase-1-project-v2-4 master zippedData
- The im.db dataset is a SQlite Database with eight tables. The bom.movie_gross and tn.movie_budgets are both CSV files and were used in this analysis.
+ The data used in this project was from:
+ * Box Office Mojo
+ * IMDB
+ * Rotten Tomatoes
+ * TheMovieDB.org
+
 
 ## Methodology
 
